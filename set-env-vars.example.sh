@@ -1,0 +1,4 @@
+export CONSUMER_KEY=xxxxxxxxxxxxxxxxxx
+export CONSUMER_SECRET=xxxxxxxxxxxxxxxxxx
+export ACCESS_TOKEN=xxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxx
+export ACCESS_TOKEN_SECRET=xxxxxxxxxxxxxxxxxx
