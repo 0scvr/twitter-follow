@@ -1,4 +1,4 @@
-module github.com/devstra/twitter-follow
+module github.com/0scvr/twitter-follow
 
 go 1.17
 
